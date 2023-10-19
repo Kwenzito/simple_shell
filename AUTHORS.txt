@@ -1,0 +1,4 @@
+# This file lists all contributors to the project.
+
+Kwena Mtshali <Kwena.Mtshali@gmail.com>
+Alfred Ndlovu <alfredfgkcndlovu@gmail.com>

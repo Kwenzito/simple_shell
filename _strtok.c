@@ -43,7 +43,7 @@ char **_strtok(char *str, char *delimeter, size_t *no_of_args)
 			return (NULL);
 		}
 		for (d = 0; d < c; d++)
-			token[b][d] = str[a];
+			token[b][d] = str[a++];
 		token[b][d] = 0;
 	}
 	token[b] = NULL;
