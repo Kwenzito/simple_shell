@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 
 			if (!path)
 			{
-				printf("%s: %d: ", argv[0], argc);
+				printf("%s: %d: %s: not found\n", argv[0], argc, args[0]);
 				deallocate(args, no_of_args);
 				free(buffer);
 				continue;
