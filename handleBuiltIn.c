@@ -4,6 +4,7 @@
  * handleBuiltIn - Handles built in arguments
  * @args: arguments
  * @no_of_args: Number of arguments
+ * @buffer: buffer
  * Return: a boolean
  */
 
